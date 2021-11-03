@@ -1,4 +1,4 @@
-# fetchapi
+# Axios and Fetch Methods
 
 
 ## Project setup
