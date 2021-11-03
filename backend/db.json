@@ -1,0 +1,29 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "The 7 Habits of Highly Effective People",
+        "body": "The 7 Habits of Highly Effective People, first published in 1989, is a business and self-help book written by Stephen R. Covey.[1] Covey presents an approach to being effective in attaining goals by aligning oneself to what he calls true north principles based on a character ethic that he presents as universal and timeless."
+      },
+      {
+        "id": 2,
+        "title": "Think and Grow Rich",
+        "body": "Think and Grow Rich was written by Napoleon Hill in 1937 and promoted as a personal development and self-improvement book. He claimed to be inspired by a suggestion from business magnate and later-philanthropist Andrew Carnegie.[1]"
+      },
+      {
+        "id": 3,
+        "title": "The Secret (Byrne book)",
+        "body": "The Secret is a 2006 self-help book by Rhonda Byrne, based on the earlier film of the same name. It is based on the belief of the law of attraction, which claims that thoughts can change a person's life directly.[1][2] The book alleges Energy (esotericism) as assurance of its effectiveness. The book has sold 30 million copies worldwide and has been translated into 50 languages."
+      },
+      {
+        "id": 4,
+        "title": "How to Win Friends and Influence People",
+        "body": "How to Win Friends and Influence People is a self-help book written by Dale Carnegie, published in 1936. Over 30 million copies have been sold worldwide, making it one of the best-selling books of all time.[1]"
+      },
+      {
+        "id": 5,
+        "title": "The Subtle Art of Not Giving a Fuck",
+        "body": "The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life (first published in 2016) is the second book by blogger and author Mark Manson.[1] In it Manson argues that life's struggles give it meaning, and that the mindless positivity of typical self-help books is neither practical nor helpful. It was a New York Times and Globe and Mail bestseller."
+      }
+    ]
+  }
